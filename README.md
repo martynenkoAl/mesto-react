@@ -12,7 +12,7 @@ https://martynenkoal.github.io/mesto-react/
 2. npm i
 3. npm run start
 
-**Технологии**
+### Технологии
 * React
 * HTML5
 * CSS3
